@@ -1,6 +1,6 @@
 # Python program for slicing a string
 
-String1="Geeks for geeks"
+String1 ='Kristipati karteek reddy'
 print("initial string")
 print(String1)
 
