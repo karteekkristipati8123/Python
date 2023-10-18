@@ -12,4 +12,4 @@ else:
 if(y in list):
     print("y is present in list")
 else:
-    print("y is present in list")
+    print("y is not present in list")
